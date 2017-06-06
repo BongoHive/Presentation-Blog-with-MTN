@@ -1,0 +1,6 @@
+/* Ref: https://stackoverflow.com/a/26056858 */
+.reveal section img {
+	background:none;
+	border:none;
+	box-shadow:none;
+}
